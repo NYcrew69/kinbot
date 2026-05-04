@@ -660,3 +660,7 @@ For commercial use cases where the AGPL obligations are not compatible with your
 <div align="center">
 Made with care · <a href="https://github.com/marlburrow">marlburrow</a>
 </div>
+
+## Local Deployment Notes
+- Setup database explicitly.
+- Env variables configured.
